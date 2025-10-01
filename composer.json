@@ -15,5 +15,8 @@
       "de-DE": "Form reply to (Set ReplyTo)",
       "en-GB": "Form reply to (Set ReplyTo)"
     }
+  },
+  "require": {
+    "shopware/core": ">=6.5.0.0 <6.6.0.0"
   }
 }
