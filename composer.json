@@ -1,0 +1,19 @@
+{
+  "name": "feathery/form-reply-to",
+  "description": "Form reply to",
+  "version": "v0.1.0",
+  "type": "shopware-platform-plugin",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "Feathery\\FormReplyTo\\": "src/"
+    }
+  },
+  "extra": {
+    "shopware-plugin-class": "Feathery\\FormReplyTo\\FormReplyToCS",
+    "label": {
+      "de-DE": "Form reply to (Set ReplyTo)",
+      "en-GB": "Form reply to (Set ReplyTo)"
+    }
+  }
+}
